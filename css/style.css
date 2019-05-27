@@ -1,0 +1,23 @@
+body {
+    background-color:  darkslategrey
+    text-align: center;
+
+} 
+.headings { 
+    color: rgb(172, 50, 13) ;
+    font-style: italic ;
+    background-color:  rgb(16, 27, 16) ;
+    text-align: center ;
+    font-size: 70px ;
+    
+    
+}
+#paragraph1 {
+    text-align: center ;
+    background-color: ;
+    font-style: normal ;
+    font-size: 40px ;
+}
+#body { 
+    background-color: darkslategray ;
+}
